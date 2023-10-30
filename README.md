@@ -1,5 +1,6 @@
 # Let-s-Calculate
 <br>
-This is a simpple calculator made by using HTML,CSS and JavaScript . 
+This is a simple calculator made by using HTML, CSS, and JavaScript. 
 <br>
-It has a beautiful layout which made it attractive to use .
+It has a beautiful layout which makes it attractive to use.
+<br>
